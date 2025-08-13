@@ -1,0 +1,1 @@
+javac -cp ".;D:\Download\mysql-connector-j-9.4.0\mysql-connector-j-9.4.0.jar" StudentManagement.java
